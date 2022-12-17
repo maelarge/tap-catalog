@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: tanzu-java-web-app
-  description: Andrew and Robert
+  description: canned demo app for TAP
   annotations:
     'backstage.io/kubernetes-label-selector': 'app.kubernetes.io/part-of=tanzu-java-web-app' #Identifies the Kubernetes objects that make up this component
     'backstage.io/techdocs-ref': dir:. #TechDocs label
