@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-  name: team-a
-  description: Team A
+  name: team-awesome
+  description: Team Awesome
 spec:
   type: team
   profile:
@@ -16,10 +16,21 @@ spec:
 apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
-  name: guest
+  name: mae
 spec:
   profile:
-    displayName: Guest User
-    email: guest1@example.com
+    displayName: Mae Large
+    email: mlarge@vmware.com
     picture: https://avatars.dicebear.com/api/avataaars/guest@example.com.svg?background=%23fff
-  memberOf: [team-a]
+  memberOf: [team-awesome]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: das
+spec:
+  profile:
+    displayName: Kabeer Das Batta
+    email: dbatta@vmware.com
+    picture: https://avatars.dicebear.com/api/avataaars/guest@example.com.svg?background=%23fff
+  memberOf: [team-awesome]
