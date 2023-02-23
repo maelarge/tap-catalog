@@ -21,7 +21,7 @@ spec:
   profile:
     displayName: Mae Large
     email: mlarge@vmware.com
-    picture: hhttps://api.dicebear.com/5.x/avataaars/svg?seed=Boo
+    picture: https://api.dicebear.com/5.x/avataaars/svg?seed=Boo
   memberOf: [team-awesome]
 ---
 apiVersion: backstage.io/v1alpha1
