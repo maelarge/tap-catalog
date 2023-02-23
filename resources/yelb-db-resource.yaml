@@ -6,6 +6,6 @@ metadata:
   annotations:
     'backstage.io/techdocs-ref': dir:.
 spec:
-  type: database
+  type: graph-db
   owner: team-awesome
   system: yelb
