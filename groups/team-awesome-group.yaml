@@ -21,7 +21,7 @@ spec:
   profile:
     displayName: Mae Large
     email: mlarge@vmware.com
-    picture: https://avatars.dicebear.com/api/avataaars/guest@example.com.svg?background=%23fff
+    picture: hhttps://api.dicebear.com/5.x/avataaars/svg?seed=Boo
   memberOf: [team-awesome]
 ---
 apiVersion: backstage.io/v1alpha1
@@ -32,5 +32,5 @@ spec:
   profile:
     displayName: Kabeer Das Batta
     email: dbatta@vmware.com
-    picture: https://avatars.dicebear.com/api/avataaars/guest@example.com.svg?background=%23fff
+    picture: https://api.dicebear.com/5.x/avataaars/svg?seed=Mia
   memberOf: [team-awesome]
