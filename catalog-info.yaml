@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Location
 metadata:
-  name: yelb-catalog-info
-  description: A sample catalog for the yelb application
+  name: gtt-catalog-info
+  description: A marker that houses GTT catalog data.
   annotations:
     'backstage.io/techdocs-ref': dir:.
 spec:
