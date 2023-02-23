@@ -7,5 +7,5 @@ metadata:
     'backstage.io/techdocs-ref': dir:.
 spec:
   type: database
-  owner: team-a
+  owner: team-awesome
   system: yelb

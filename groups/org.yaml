@@ -25,5 +25,5 @@ spec:
   targets:
     - ./it-dept.yaml
     - ./dev-dept.yaml
-    - ./team-a-group.yaml
+    - ./team-awesome-group.yaml
     - ./team-b-group.yaml
