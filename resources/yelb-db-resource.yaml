@@ -4,6 +4,7 @@ metadata:
   name: yelb-db
   description: Stores Yelb application Database
   annotations:
+    'backstage.io/view-url': https://iterate-sample.mae.iterate.prep.tapsme.org
     'backstage.io/techdocs-ref': dir:.
 spec:
   type: graph-db
