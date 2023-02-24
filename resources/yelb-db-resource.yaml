@@ -8,8 +8,10 @@ metadata:
   annotations:
     'backstage.io/techdocs-ref': dir:.
   links:
-    - title: Provider documentation
+    - title: Amazon Neptune Doc
       url: https://docs.aws.amazon.com/neptune/latest/userguide/intro.html
+    - title: Amazon Neptune FAQ
+      url: https://aws.a
 spec:
   type: graph-db
   owner: team-awesome
