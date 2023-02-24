@@ -11,7 +11,7 @@ metadata:
     - title: Amazon Neptune Doc
       url: https://docs.aws.amazon.com/neptune/latest/userguide/intro.html
     - title: Amazon Neptune FAQ
-      url: https://aws.a
+      url: https://aws.amazon.com/neptune/faqs/
 spec:
   type: graph-db
   owner: team-awesome
