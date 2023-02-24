@@ -15,4 +15,5 @@ spec:
     - ./groups/org.yaml
     - ./systems/yelb-system.yaml
     - ./resources/yelb-db-resource.yaml
+    - ./resources/yelb-cache-resource.yaml
     - ./domains/cloudapps-domain.yaml

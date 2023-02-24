@@ -1,0 +1,16 @@
+apiVersion: backstage.io/v1alpha1
+kind: Resource
+metadata:
+  name: yelb-cache
+  description: In-memory data store for Yelb application
+  tags:
+    - aws
+  annotations:
+    'backstage.io/techdocs-ref': dir:.
+  links:
+    - title: Amazon ElastiCache for Redis
+      url: https://aws.amazon.com/elasticache/redis/
+spec:
+  type: in-memory-db
+  owner: team-awesome
+  system: yelb
