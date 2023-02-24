@@ -6,8 +6,10 @@ metadata:
   tags:
     - aws
   annotations:
-    'backstage.io/view-url': https://iterate-sample.mae.iterate.prep.tapsme.org
     'backstage.io/techdocs-ref': dir:.
+  links:
+    - title: Provider documentation
+      url: https://docs.aws.amazon.com/neptune/latest/userguide/intro.html
 spec:
   type: graph-db
   owner: team-awesome
