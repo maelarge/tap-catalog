@@ -17,6 +17,8 @@ apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
   name: mae
+  title: Mae Large
+  description: Field Engineer
 spec:
   profile:
     displayName: Mae Large
