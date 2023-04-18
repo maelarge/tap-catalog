@@ -24,7 +24,7 @@ spec:
     displayName: Mae Large
     email: mlarge@vmware.com
     picture: https://api.dicebear.com/5.x/avataaars/svg?seed=Boo
-  memberOf: [team-awesome]
+  memberOf: []
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
