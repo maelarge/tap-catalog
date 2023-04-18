@@ -28,6 +28,8 @@ apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
   name: das
+  title: Kabeer Das
+  description: Solution Architect
 spec:
   profile:
     displayName: Kabeer Das Batta
