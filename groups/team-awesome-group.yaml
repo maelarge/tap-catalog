@@ -38,3 +38,16 @@ spec:
     email: dbatta@vmware.com
     picture: https://avatars.dicebear.com/api/avataaars/guest@example.com.svg?background=%23fff
   memberOf: [team-awesome]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: jeremy.salganik
+  title: Jeremy Salganik
+  description: EWB Lead
+spec:
+  profile:
+    displayName: Jeremy Salganik
+    email: jeremy.salganik@ihsmarkit.com
+    picture: https://avatars.dicebear.com/api/avataaars/jeremy.salganik@ihsmarkit.com.svg?background=%23fff
+  memberOf: []
