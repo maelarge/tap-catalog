@@ -26,4 +26,3 @@ spec:
     - ./it-dept.yaml
     - ./dev-dept.yaml
     - ./team-awesome-group.yaml
-    - ./team-b-group.yaml
