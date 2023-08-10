@@ -16,19 +16,6 @@ spec:
 apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
-  name: mae.large
-  title: Mae Large
-  description: Field Engineer
-spec:
-  profile:
-    displayName: Mae Large
-    email: mlarge@vmware.com
-    picture: https://api.dicebear.com/5.x/avataaars/svg?seed=Boo
-  memberOf: []
----
-apiVersion: backstage.io/v1alpha1
-kind: User
-metadata:
   name: das
   title: Kabeer Das
   description: Solution Architect
