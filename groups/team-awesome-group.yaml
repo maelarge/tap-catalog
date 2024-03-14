@@ -3,6 +3,7 @@ kind: Group
 metadata:
   name: team-awesome
   description: Team Awesome
+  namespace: mae
 spec:
   type: team
   profile:
@@ -19,6 +20,7 @@ metadata:
   name: Mae
   title: Mae Large
   description: PVE
+  namespace: mae
 spec:
   profile:
     displayName: Mae Large
