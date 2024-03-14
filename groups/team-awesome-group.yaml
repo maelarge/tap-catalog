@@ -16,12 +16,12 @@ spec:
 apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
-  name: das
-  title: Kabeer Das
-  description: Solution Architect
+  name: Mae
+  title: Mae Large
+  description: PVE
 spec:
   profile:
-    displayName: Kabeer Das Batta
-    email: dbatta@vmware.com
+    displayName: Mae Large
+    email: mae.large@broadcom.com
     picture: https://avatars.dicebear.com/api/avataaars/guest@example.com.svg?background=%23fff
   memberOf: [team-awesome]
