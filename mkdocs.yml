@@ -1,4 +1,4 @@
-site_name: 'Yelb demo catalog'
+site_name: 'TAP catalog'
 
 nav:
   - Home: index.md
